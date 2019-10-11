@@ -1,0 +1,28 @@
+C/Thank you for fixing me. I thought I was going to be stuck like that! Darkness for ever! Nothing buta light at the end of an infinite tunnel! How     ever can I repay you?
+P/I need your help with something.
+CA/What do you need?
+PA/I need a keycard to open the door
+CAA/Well if you can find an existing keycard, I should be able to reprogram it with your DNA signature.
+PAA/I already have a keycard
+CAAA/Excellent! Just insert into the slot on the wall the your left.
+PAAA/ 
+PAAAA/
+PAA/Ok I'll find one.
+CAAB/Off you pop!
+PAAB/ 
+PAABA/
+PA/I could use a map of the ship
+CAB/My map files seem to have been corrupted. It is   now spread over several terminals. I can give you some data, but you'll have to fix more of my      terminals to get more!
+PAB/ 
+PABA/
+P/Why did I ever awake you
+CB/Well that's not very nice
+PB/ 
+PBA/
+P/No Thanks
+CC/Okay Then
+PC/ 
+PCA/
+
+#Add A if top answer etc.
+#Blank Lines are only temporary as branch enders. In application this would be automatically achieved
